@@ -77,3 +77,13 @@ h1{
     color: black;
     text-align: center;
 }
+/* media query */
+@media (max-width:800px){
+    .container{
+        width: 100%;
+        left: 0%;
+    }
+    .addbtn{
+        font-size: 10px;
+    }
+}
